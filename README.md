@@ -1,4 +1,4 @@
-I think esolangs are pretty cool y'know?
+I like Esolangs, Lisp, and Guinea Pigs.
 
 <!---
 ZeroPlayerRodent/ZeroPlayerRodent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
